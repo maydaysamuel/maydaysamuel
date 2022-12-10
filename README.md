@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maydaysamuel
-- 👀 I’m interested in ... video game development
-- 🌱 I’m currently learning ... HTML5, CSS, and JavaScript
+- 👀 I’m interested in ... video game development, UI/UX, and accessibility
+- 🌱 I’m currently learning ... React, Angular, Material UI, and Bootstrap
 - 💞️ I’m looking to collaborate on ... nothing yet
 - 📫 How to reach me ... private for now
 
